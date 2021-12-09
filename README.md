@@ -1,0 +1,5 @@
+- 👋 Olá , eu sou o @JoaoVictorLaguna
+- 👀 Estou interessado em aprender mais sobre programação em linguagem python , C# , e também banco de dados.
+- 🌱 Atualmente estou cursando Análise e desenvolvimento de sistemas na Uninter 
+- 💞️ Estou disponivel para colaborar em projetos na linguagem python 
+- 📫 Minhas redes socias são Facebook/Instagram João Victor Laguna ,  WhatsApp +55 31 9 8647-5339
